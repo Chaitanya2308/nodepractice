@@ -1,0 +1,19 @@
+{
+  "name": "npmpractice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chaitanya2308/nodepractice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Chaitanya2308/nodepractice/issues"
+  },
+  "homepage": "https://github.com/Chaitanya2308/nodepractice#readme",
+  "description": ""
+}
